@@ -9,5 +9,5 @@ This app supports common text-editor features such as
 - find & replace, etc.
 
 ### Project Demo:
-https://github.com/orbitze/Lucid-Text/assets/37877619/a5ad7324-2ce3-4f63-8386-07cf88fed4af
+https://github.com/orbitze/Lucid-Text/assets/37877619/b26afc8e-3dce-45ac-93f6-5d450036deea
 
